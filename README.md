@@ -26,3 +26,6 @@ HTML CSS
 
 #Link to deployed application:
 https://deenie818.github.io/Professional-Portfolio/
+
+<img width="929" alt="image" src="https://user-images.githubusercontent.com/99102981/159209342-f289d2f5-cf1d-4caa-a8e9-532bd3ffdb2c.png">
+
