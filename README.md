@@ -25,3 +25,4 @@ The following animation shows the web application's appearance and functionality
 HTML CSS
 
 #Link to deployed application:
+https://deenie818.github.io/Professional-Portfolio/
