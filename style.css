@@ -77,10 +77,10 @@ header h1 {
     text-shadow: 0 0 10px rgba(0,0,0,.5);
 }
 
+/*about me section*/
 
-
-.about-me div {
-    float: right
+.about-me p2 {
+    float:inline-end;
 }
 
 
@@ -92,10 +92,10 @@ header h1 {
 
 
 header p {
-    text-align: right;
+    text-align:center;
     font-size: 1.6rem;
     padding: 1rem 0;
-    border-bottom: 1px solid lightblue;
+    border-bottom: 3px solid lightblue;
 }
 header h3 {
     font-size: 3rem;
@@ -115,7 +115,7 @@ header h3 {
     background-size: cover; 
     background-attachment: fixed;
 
-/*parallaz section ends*/
+/*parallax section ends*/
 }
 
 /*project section*/
